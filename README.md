@@ -26,9 +26,13 @@ Estudiante de  Analista de Sistemas y Abogado recibido
 
 ## Formación
 Etudiante Analista de Sistemas: IESBA Estudios Superiores de Buenos Aires.
+
 Testing QA: Academía Icaro.
+
 Introducción al Testing: Bolsa de Comercio de Rosario.
+
 Testing Manual: CoderHouse.
+
 Fundamento Power BI: Polo Tecnologico Rosario.
 
 Abogado: Universidad del Centro Educativo Latinoamericano.
