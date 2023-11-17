@@ -24,15 +24,14 @@ Estudiante de  Analista de Sistemas y Abogado recibido
 * Cración de  test cases
 * Report bugs
 
-  ## Formación
-  EStudiante Analista de Sistemas: IESBA Estudios Superiores de Buenos Aires.
+## Formación
+Etudiante Analista de Sistemas: IESBA Estudios Superiores de Buenos Aires.
+Testing QA: Academía Icaro.
+Introducción al Testing: Bolsa de Comercio de Rosario.
+Testing Manual: CoderHouse.
+Fundamento Power BI: Polo Tecnologico Rosario.
 
-  Testing QA: Academía Icaro
-  Introducción al Testing: Bolsa de Comercio de Rosario
-  Testing Manual: CoderHouse
-  Fundamento Power BI: Polo Tecnologico Rosario
-  
-  Abogado: Universidad del Centro Educativo Latinoamericano.
+Abogado: Universidad del Centro Educativo Latinoamericano.
   
 <h3 align="left">Contact:</h3>
 <p align="left">
